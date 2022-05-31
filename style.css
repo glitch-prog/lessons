@@ -1,0 +1,12 @@
+.products__cards{
+ display: flex;
+ flex-direction: row;
+ justify-content: space-around;
+    align-items: center;
+}
+
+.products__card{
+    padding:10px;
+    border: 1px solid #000000;
+    border-radius: 5%;
+}
